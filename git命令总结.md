@@ -3,6 +3,7 @@
 git config --global user.name "Your Name"
 git config --global user.email "email@example.com"
 ```
+-test
 - 配置当前仓库用户及邮箱
 ```java
 git config user.name "Your Name"
